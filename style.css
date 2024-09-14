@@ -8,3 +8,20 @@ body{
     height: 700px;
     margin: 0;
 }
+
+button {
+    background-color: rgba(136, 22, 243, 0.727);
+    color: #e3beff;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+.passo .ativo {
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 90%;
+}
